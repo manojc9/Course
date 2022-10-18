@@ -4,6 +4,6 @@ You can choose one module from the list below:-
 2)Divide and Conquer Algorithms
 3)Dynamic Programming
 
-Pawan Dubey
+Manoj Kumar
 Dynamic Programming
-Understanding the prolem and implementing a solution which is space and time efficient by structuring it into sub problems.
+Dynamic Programming is mainly an optimization over plain recursion. Wherever you see a recursive solution that has reprated calls for the same inputs, wr can optimize it using Dynamic Programming.
